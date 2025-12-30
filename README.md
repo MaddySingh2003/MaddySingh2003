@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to colaborate on<br>I'm learning new things<br>I'm a fat learner student<br>I'm like to work on new tech
+I'm looking to colaborate on.<br>I'm learning new things.<br>I'm a fast learner student.<br>I'm like to work on new tech.
 
 
 ## 🌐 Socials:
