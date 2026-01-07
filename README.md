@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm looking to colaborate on.<br>I'm learning new things.<br>I'm a fast learner.<br>I'm like to work on new tech.
+<h1 align="center">Hi 👋, I'm Milan</h1>
+<h3 align="center">A passionate full-stack developer</h3>
+
+---
+
+- 🔭 I’m currently working on **Docker & real-world projects**
+- 🌱 I’m currently learning **DevOps**
+- 👨‍💻 All of my projects are available at **https://github.com/milan**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: **milan@gmail.com**
+
+---
 
 
 ## 🌐 Socials:
