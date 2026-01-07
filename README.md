@@ -1,14 +1,12 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Milan</h1>
-<h3 align="center">A passionate full-stack developer</h3>
 
 ---
-
-- 🔭 I’m currently working on **Docker & real-world projects**
-- 🌱 I’m currently learning **DevOps**
-- 👨‍💻 All of my projects are available at **https://github.com/milan**
+- 🔭 I’m currently working on **Full-Stack**
+- 🌱 I’m currently learning about **Game-Dev**
+- 👨‍💻 All of my projects are available at **https://github.com/MaddySingh2003**
 - 💬 Ask me about **Web Development**
-- 📫 How to reach me: **milan@gmail.com**
+- 📫 How to reach me: **milansuryavanshi27@gmail.com**
 
 ---
 
