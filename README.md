@@ -4,7 +4,7 @@
 ---
 - 🔭 I’m currently working on **Full-Stack**
 - 🌱 I’m currently learning about **Game-Dev**
-- 👨‍💻 All of my projects are available at **https://github.com/MaddySingh2003**
+- 👨‍💻 My all detail available on **https://milan-suryavanshi.netlify.app/**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **milansuryavanshi27@gmail.com**
 
