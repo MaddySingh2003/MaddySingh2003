@@ -1,14 +1,19 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Milan</h1>
+# 💫 About Me
+
+<h1 align="center">Hi 👋, I'm Milan Suryavanshi</h1>
+
+### 🚀 Full-Stack Developer | Exploring Game Development
+
+* 🔭 Currently building full-stack web applications
+* 🌱 Learning **Game Development** and interactive experiences
+* 💬 Ask me about **Web Development, JavaScript, React, and Backend Systems**
+* 🌐 Portfolio: milan-suryavanshi.netlify.app
+* 📫 Reach me at: [milansuryavanshi27@gmail.com](mailto:milansuryavanshi27@gmail.com)
 
 ---
-- 🔭 I’m currently working on **Full-Stack**
-- 🌱 I’m currently learning about **Game-Dev**
-- 👨‍💻 My all detail available on **https://milan-suryavanshi.netlify.app/**
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me: **milansuryavanshi27@gmail.com**
 
----
+⚡ I enjoy building projects that combine clean UI, performance, and real-world usability.
+
 
 
 ## 🌐 Socials:
