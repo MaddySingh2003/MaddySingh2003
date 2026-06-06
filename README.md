@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MaddySingh2003&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![GitHub Streak](https://streak-stats.demolab.com?user=MaddySingh2003)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaddySingh2003&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaddySingh2003)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-trophy.vercel.app/?username=MaddySingh2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
