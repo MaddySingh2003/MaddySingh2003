@@ -6,12 +6,11 @@
 
 <img align="right" width = 400 src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="coding gif">
 
-
 🚀 Full-Stack Developer | Exploring Game Development<br><br>* 🔭 Currently building full-stack web applications<br>* 🌱 Learning **Game Development** and interactive experiences<br>* 💬 Ask me about **Web Development, JavaScript, React, and Backend Systems**<br>* 🌐 Portfolio: milan-suryavanshi.netlify.app<br>* 📫 Reach me at: [milansuryavanshi27@gmail.com](mailto:milansuryavanshi27@gmail.com)<br><br>---<br><br>⚡ I enjoy building projects that combine clean UI, performance, and real-world usability.<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/milan-suryavanshi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32536879/milan-suryavanshi) (https://mastodon.social/@Milan Suryavanshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milansuryavanshi27@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/milan-suryavanshi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32536879/milan-suryavanshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milansuryavanshi27@gmail.com) 
 
 
 # 💻 Tech Stack:
