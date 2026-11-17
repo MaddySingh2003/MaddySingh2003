@@ -7,10 +7,12 @@
 </br>
 </br>
 
-<img align="right" width="400"
+
+##  💫 About Me
+
+<img align="right" width="400" height="400"
 src="assets/developer.gif"
 alt="Software Developer Animation">
-##  💫 About Me
 
 I'm an AI & Full-Stack Developer passionate about building intelligent applications, scalable backend systems, and modern user experiences.
 
