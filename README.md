@@ -2,7 +2,7 @@
   <img src="assets/futuristic_ai_github_banner.gif"
        width="100%" alt="AI & Technology Banner"/>
 </p><h1 align="center">Hi 👋, I'm Milan !!</h1>
-<h3 align="center">A passionate web developer from Delhi in India</h3>
+<h3 align="center">A passionate AI Devlepoer from Delhi in India</h3>
 </br>
 </br>
 
