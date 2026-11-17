@@ -1,3 +1,12 @@
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<h1 align="center">Hi 👋, I'm Kunal !!</h1>
+<h3 align="center">A passionate web developer from Delhi in India</h3>
+</br>
+</br>
+
+<img align="right" width = 400 src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="coding gif">
+
+
 # 💫 About Me<br><br><h1 align="center">Hi 👋, I'm Milan Suryavanshi</h1><br><br>### 🚀 Full-Stack Developer | Exploring Game Development<br><br>* 🔭 Currently building full-stack web applications<br>* 🌱 Learning **Game Development** and interactive experiences<br>* 💬 Ask me about **Web Development, JavaScript, React, and Backend Systems**<br>* 🌐 Portfolio: milan-suryavanshi.netlify.app<br>* 📫 Reach me at: [milansuryavanshi27@gmail.com](mailto:milansuryavanshi27@gmail.com)<br><br>---<br><br>⚡ I enjoy building projects that combine clean UI, performance, and real-world usability.<br>
 
 
