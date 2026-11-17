@@ -2,14 +2,34 @@
   <img src="./assets/milan_futuristic_ai_banner.gif"
        width="100%" alt="AI Technology Banner"/>
 </p>
+
 <h3 align="center">A passionate AI Devlepoer from Delhi in India</h3>
 </br>
 </br>
 
-<img align="right" width = 400 src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="coding gif">
+<img align="right" width="400"
+src="assets/developer.gif"
+alt="Software Developer Animation">
+##  💫 About Me
 
-🚀 Full-Stack Developer | Exploring Game Development<br><br>* 🔭 Currently building full-stack web applications<br>* 🌱 Learning **Game Development** and interactive experiences<br>* 💬 Ask me about **Web Development, JavaScript, React, and Backend Systems**<br>* 🌐 Portfolio: milan-suryavanshi.netlify.app<br>* 📫 Reach me at: [milansuryavanshi27@gmail.com](mailto:milansuryavanshi27@gmail.com)<br><br>---<br><br>⚡ I enjoy building projects that combine clean UI, performance, and real-world usability.<br>
+I'm an AI & Full-Stack Developer passionate about building intelligent applications, scalable backend systems, and modern user experiences.
 
+I enjoy transforming ideas into practical products by combining software engineering, Artificial Intelligence, Machine Learning, and problem-solving.
+
+
+ 🔭 Currently building AI-powered applications and full-stack systems
+
+🤖 Exploring LLMs, RAG, NLP, and Machine Learning
+
+💻 Working with React.js, Angular, Node.js, and Python
+
+⚙️ Interested in Backend Engineering, System Design, and Cloud Technologies
+
+🎮 Exploring Game Development with Unity and C#
+
+🌱 Always learning and experimenting with emerging technologies
+
+📍 Based in Delhi, India
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/milan-suryavanshi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32536879/milan-suryavanshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:milansuryavanshi27@gmail.com) 
